@@ -6,6 +6,8 @@ Judul : Implementasi Algoritma Random Forest untuk Klasifikasi Kondisi Lingkunga
 
 Kelompok : 2
 Nama Ketua : Slamet Adi Nugroho (230935603850) 
+
+
 Nama Anggota  : 
 1. Fitra Qodratullah Handrah (230935610154)  
 2. Laila Ni’matur Rohmah (230935604558)    
